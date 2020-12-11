@@ -45,3 +45,4 @@ py pipelines/borough_finder.py biggy  #will create a biggywith_borough.csv file 
 #### By and For :
 
 __Christian Melot [@Becode](https://becode.org/fr/)__
+![alt text](img/nycut2.png)
