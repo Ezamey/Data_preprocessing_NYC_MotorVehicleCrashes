@@ -16,13 +16,13 @@ This script preprocess the datas presents in the dataset from [NYC OpenData](htt
 ## How to use it :
 
 ### 1.Classic :
-If you want a vague idea of the data you will get after the preprocessing part. Just run the main.py file. In the terminal, the differents steps will be displayed and a __final.csv__ file will be created in the root directory. this __final.csv__ file is the result of the preprocessing  of a __100.000 lines__ datasets.
+If you want a vague idea of the data you will get after the preprocessing part. Just run the __main.py__ file. In the terminal, the differents steps will be displayed and a __final.csv__ file will be created in the root directory. This __final.csv__ file is the result of the preprocessing  of a __100.000 lines__ dataset.
 
 ```python
 py main.py
 ```
 
-If you  want to preprocess the whole dataset. Run the same command with an argument. This argument will be the name of your futur __.csv__ file. Be aware that  this dataset  is quite heavy.
+If you  want to preprocess the whole dataset(). Run the same command with an argument. This argument will be the name of your futur __.csv__ file. Be aware that  this dataset  is quite heavy _(1,738,137 lines)_
 
 ```python
 py main.py biggy #will create a biggy.csv file in the root directory
